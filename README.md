@@ -1,2 +1,2 @@
-# minha-api-mvp
-Este projeto faz parte da entre Pos PUC-Rio Eng Soft
+# API Master
+Este projeto faz parte da entre Pós PUC-Rio em Engenharia de Software
