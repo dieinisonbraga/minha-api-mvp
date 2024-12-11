@@ -1,0 +1,24 @@
+{
+    "beauty": [
+        {
+            "id": 1,
+            "title": "Loção Hidratante NIVEA Milk Pele Seca a Extra Seca 400ml",
+            "description": "A Loção Hidratante NIVEA Milk hidrata profundamente a pele e oferece um cuidado intensivo. Tem 2x mais óleo de amendoas, nutrindo intensamente por 48h. Garanta o seu!",
+            "price": 16.99,
+            "rating": 4.8,
+            "brand": "NIVEA",
+            "category": "beleza",
+            "image": "agachamento"
+        },
+        {
+            "id": 2,
+            "title": "Shampoo 350ML + condicionador 175ML pantene hidratação",
+            "description": "Pantene traz uma exclusiva fórmula desenvolvida com a ciência Pro-V para definir e selar a cutícula de cada fio de cabelo mantendo o penteado liso que você adora.",
+            "price": 19.99,
+            "rating": 4.8,
+            "brand": "Pantene",
+            "category": "beleza",
+            "image": "alongamento"
+        }
+    ]
+}
